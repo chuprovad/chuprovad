@@ -4,7 +4,7 @@ My name is Daria, I'm from Moscow! <br />
 I am a Fullstack JavaScript/React Developer <br />
 I love travelling😎 <br />
 
-### Check my projects: [Pascal](https://github.com/chuprovad/Pascal-1),
+### Check my projects: [Pascal](https://github.com/chuprovad/Pascal-1)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
